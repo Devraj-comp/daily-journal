@@ -1,0 +1,41 @@
+.mb-3{
+    text-align: left;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+body{
+    text-align: center;
+}
+
+
+
+
+.btn{
+    margin: 10px 0 0;
+}
+
+h1{
+    text-align: left;
+    margin-top: 5%;
+    font-family: 'Potta One', cursive;
+}
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    font-family: 'Hachi Maru Pop', cursive;
+
+
+
+}
+p, a{
+    text-align: left;
+    font-family: 'Hachi Maru Pop', cursive;
+    
+}
+li{
+    margin: 0 10px 0;
+}
